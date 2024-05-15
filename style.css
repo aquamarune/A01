@@ -2,4 +2,5 @@ body{
     font-size: 14px;
     background-color: aqua;
     order: 1px;
+    margin: 10px;
 }
