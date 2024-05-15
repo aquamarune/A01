@@ -3,5 +3,9 @@ body{
     background-color: aqua;
     order: 1px;
     margin: 10px;
+<<<<<<< HEAD
     padding: auto;
+=======
+    padding: 10px;
+>>>>>>> 60ba7f1d279d04eb841d8d18042b136dbe93caad
 }
